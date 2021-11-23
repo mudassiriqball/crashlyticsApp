@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "382423936509",
+    "project_id": "fir-analyapp",
+    "storage_bucket": "fir-analyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382423936509:android:72216d3bdc3d241c1e3d94",
+        "android_client_info": {
+          "package_name": "com.crashlyticsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382423936509-815trtboidoukj0hb7a2iiob8piegj77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaKJsHLPFNsRsBWOIaw_g1fBwlQfW01Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382423936509-815trtboidoukj0hb7a2iiob8piegj77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382423936509:android:0e17413d808526191e3d94",
+        "android_client_info": {
+          "package_name": "com.firebaseanalyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382423936509-815trtboidoukj0hb7a2iiob8piegj77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaKJsHLPFNsRsBWOIaw_g1fBwlQfW01Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382423936509-815trtboidoukj0hb7a2iiob8piegj77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
